@@ -1,0 +1,14 @@
+
+div img{
+    width: 100%;
+    height: 200px;
+}
+h2{
+    text-align: center;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div p{
+    font-style: italic;
+    text-align: center;
+}

@@ -1,0 +1,57 @@
+
+.a{
+    margin-top: 30px;
+    margin-left: 50%;   
+}
+h2{
+    margin-left: 47%;
+}
+.b{
+    background-color: rgb(244, 251, 252);
+    margin-left: 37%;
+    height: 200px;
+    align-items: center;
+    padding: 20px;
+    width: 30%;
+}
+.b a{
+    margin-left: 154px;
+}
+input{
+    width: 372px;
+    margin-top: 10px;
+    height: 20px;
+}
+label{
+    margin-top: 10px;
+}
+button{
+    margin-left: -14px;
+    margin-top: 18px;
+    background-color: rgb(74, 212, 134);
+    width: 400px;
+    height: 30px;
+}
+.c{
+    border: solid black .3px;
+    margin-left: 37%;
+    margin-top: 32px;
+    height: 15px;
+    width: 30%;
+    padding: 20px;
+}
+.c label{
+    align-items: center;
+    margin-left: 80px;
+}
+.d{
+    margin-left: 523px;
+    margin-top: 50px;
+}
+.d a{
+    
+    justify-content: space-between;
+}
+	
+	
+	
